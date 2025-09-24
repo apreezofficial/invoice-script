@@ -5,7 +5,7 @@ This is a RESTful API built with Laravel 12, designed for user authentication an
 
 ## API Documentation
 ### Base URL
-The base URL for all API endpoints is `http://localhost:8000`.
+The base URL for all API endpoints is `http://localhost:8000/api`.
 
 ### Endpoints
 #### POST /register
